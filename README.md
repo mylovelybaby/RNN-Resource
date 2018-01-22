@@ -3,6 +3,13 @@
 ### General:
 - 动手学深度学习.in Chinese. includes basic rnn, gru, and lstm. https://zh.gluon.ai/chapter_recurrent-neural-networks/index.html
 - The Unreasonable Effectiveness of RNNs by Andrej Karpathy. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Understanding LSTM Networks. Nice figures of LSTM cell.https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+### Bi-directional RNN
+![alt text](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/bidirectional-rnn.png)
+- http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+
+### Tensorflow
 - Recurrent Neural Networks in Tensorflow. https://www.tensorflow.org/versions/master/tutorials/recurrent
 - General tensorflow tutorial. https://github.com/nlintz/TensorFlow-Tutorials and https://github.com/aymericdamien/TensorFlow-Examples
 

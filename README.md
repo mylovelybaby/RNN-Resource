@@ -20,6 +20,7 @@
 ### Neural Machine Translation:
 - https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
 https://www.tensorflow.org/tutorials/seq2seq
+- Stanford NMT group: https://nlp.stanford.edu/projects/nmt/
 
 ## Implementation
 ### Vanilla RNN in Python/Numpy:

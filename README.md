@@ -1,9 +1,12 @@
 # RNN-Resource
 ## Tutorials
-### General:
+### General
 - 动手学深度学习.in Chinese. includes basic rnn, gru, and lstm. https://zh.gluon.ai/chapter_recurrent-neural-networks/index.html
 - The Unreasonable Effectiveness of RNNs by Andrej Karpathy. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Understanding LSTM Networks. Nice figures of LSTM cell.https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+![alt text](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
+### Attention
+- Attention and Memory: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 
 ### Bi-directional RNN
 ![alt text](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/bidirectional-rnn.png)
@@ -13,15 +16,26 @@
 - Recurrent Neural Networks in Tensorflow. https://www.tensorflow.org/versions/master/tutorials/recurrent
 - General tensorflow tutorial. https://github.com/nlintz/TensorFlow-Tutorials and https://github.com/aymericdamien/TensorFlow-Examples
 
-### Seq2seq 
+### Implementation
+- Word-level RNN with Python and theano: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
+- Vanishing Gradient: http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
+- GRU/LSTM RNN with Python and Theano: http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
 - Neural Machine Translation (seq2seq) Tutorial https://github.com/tensorflow/nmt/
 
 ## Sample Code:
+### General:
 - Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy https://gist.github.com/karpathy/d4dee566867f8291f086
 - Char-rnn-tensorflow: https://github.com/sherjilozair/char-rnn-tensorflow
 - Word-level RNN PyTorch example: https://github.com/pytorch/examples/tree/master/word_language_model
 - Practical PyTorch: https://github.com/spro/practical-pytorch
 - NLP in PyTorch: https://github.com/rguthrie3/DeepLearningForNLPInPytorch
+
+### Text Summarization
+- thunlp https://github.com/thunlp/TensorFlow-Summarization.git 
+- textsum https://github.com/tensorflow/models/tree/master/research/textsum
+
+### Neural Machine Translation
+- Neural Machine Translation (seq2seq) Tutorial https://github.com/tensorflow/nmt/
 
 ## Paper:
 - see https://github.com/kjw0612/awesome-rnn
@@ -30,11 +44,3 @@
 - Shakespeare: https://cs.stanford.edu/people/karpathy/char-rnn/shakespear.txt
 - Wikipedia: https://cs.stanford.edu/people/karpathy/char-rnn/wiki.txt
 - Sherlock: https://sherlock-holm.es/stories/plain-text/cnus.txt
-
-## Projects 
-### Text Summarization
-- thunlp https://github.com/thunlp/TensorFlow-Summarization.git 
-- textsum https://github.com/tensorflow/models/tree/master/research/textsum
-
-### Neural Machine Translation
-- Neural Machine Translation (seq2seq) Tutorial https://github.com/tensorflow/nmt/

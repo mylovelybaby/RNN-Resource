@@ -5,9 +5,11 @@
 - The Unreasonable Effectiveness of RNNs by Andrej Karpathy. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Understanding LSTM Networks. Nice figures of LSTM cell.https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ![alt text](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
+
 ### Attention
 - Attention and Memory: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 - https://distill.pub/2016/augmented-rnns/#attentional-interfaces
+
 ### Bi-directional RNN
 ![alt text](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/bidirectional-rnn.png)
 - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
@@ -15,42 +17,49 @@
 ### Neural Turing Machine
 - https://distill.pub/2016/augmented-rnns/#neural-turing-machines
 
-### Implementation
-#### Tensorflow
+### Neural Machine Translation:
+- https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
+https://www.tensorflow.org/tutorials/seq2seq
+
+## Implementation
+### Vanilla RNN in Python/Numpy:
+- Minimal character-level language model with a Vanilla Recurrent Neural Network: https://gist.github.com/karpathy/d4dee566867f8291f086
+
+### Vanilla RNN in Tensorflow
 - General tensorflow tutorial. https://github.com/nlintz/TensorFlow-Tutorials and https://github.com/aymericdamien/TensorFlow-Examples
 - Recurrent Neural Networks in Tensorflow. https://www.tensorflow.org/versions/master/tutorials/recurrent
 - RNNs in Tensorflow, a Practical Guide and Undocumented Features: http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
 - Vanishing Gradient: http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
-
-#### Theano
-- GRU/LSTM RNN with Python and Theano: http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
-- Word-level RNN with Python and theano: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
-
-#### Neural Machine Translation
-- Neural Machine Translation (seq2seq) Tutorial https://github.com/tensorflow/nmt/
-#### Visual Question Answering
-- https://avisingh599.github.io/deeplearning/visual-qa/
-
-## Sample Code:
-### General:
-- Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy https://gist.github.com/karpathy/d4dee566867f8291f086
 - Char-rnn-tensorflow: https://github.com/sherjilozair/char-rnn-tensorflow
+
+### Vanilla RNN in PyTorch:
 - Word-level RNN PyTorch example: https://github.com/pytorch/examples/tree/master/word_language_model
 - Practical PyTorch: https://github.com/spro/practical-pytorch
 - NLP in PyTorch: https://github.com/rguthrie3/DeepLearningForNLPInPytorch
 
-### Text Summarization
-- thunlp https://github.com/thunlp/TensorFlow-Summarization.git 
-- textsum https://github.com/tensorflow/models/tree/master/research/textsum
+### Vanilla RNN in Theano
+- GRU/LSTM RNN with Python and Theano: http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
+- Word-level RNN with Python and theano: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
 
 ### Neural Machine Translation
-- Neural Machine Translation (seq2seq) Tutorial https://github.com/tensorflow/nmt/
+- Neural Machine Translation (seq2seq) Tutorial https://www.tensorflow.org/tutorials/seq2seq https://github.com/tensorflow/nmt/
+
+### Chatbot:
+- stanford tensorflow tutorial:https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/2017/assignments/chatbot
+- Deep QA: https://github.com/Conchylicultor/DeepQA
+- chatbot-rnn reddit data: https://github.com/pender/chatbot-rnn
+- summary/datasets: https://github.com/fendouai/Awesome-Chatbot
+- in chinese: https://github.com/qhduan/Seq2Seq_Chatbot_QA
 
 ### Neural Turing Machine
 - in tensorflow: https://github.com/carpedm20/NTM-tensorflow
 
 ### Visual Question Answering
-- https://github.com/avisingh599/visual-qa
+- https://avisingh599.github.io/deeplearning/visual-qa/ https://github.com/avisingh599/visual-qa
+
+### Text Summarization
+- thunlp https://github.com/thunlp/TensorFlow-Summarization.git 
+- textsum https://github.com/tensorflow/models/tree/master/research/textsum
 
 ## Paper:
 - see https://github.com/kjw0612/awesome-rnn

@@ -7,7 +7,7 @@
 ![alt text](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
 ### Attention
 - Attention and Memory: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
-
+- https://distill.pub/2016/augmented-rnns/#attentional-interfaces
 ### Bi-directional RNN
 ![alt text](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/bidirectional-rnn.png)
 - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
@@ -28,6 +28,8 @@
 
 #### Neural Machine Translation
 - Neural Machine Translation (seq2seq) Tutorial https://github.com/tensorflow/nmt/
+#### Visual Question Answering
+- https://avisingh599.github.io/deeplearning/visual-qa/
 
 ## Sample Code:
 ### General:
@@ -46,6 +48,9 @@
 
 ### Neural Turing Machine
 - in tensorflow: https://github.com/carpedm20/NTM-tensorflow
+
+### Visual Question Answering
+- https://github.com/avisingh599/visual-qa
 
 ## Paper:
 - see https://github.com/kjw0612/awesome-rnn

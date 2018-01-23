@@ -12,15 +12,19 @@
 ![alt text](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/bidirectional-rnn.png)
 - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 
-### Tensorflow
-- Recurrent Neural Networks in Tensorflow. https://www.tensorflow.org/versions/master/tutorials/recurrent
-- General tensorflow tutorial. https://github.com/nlintz/TensorFlow-Tutorials and https://github.com/aymericdamien/TensorFlow-Examples
 
 ### Implementation
-- Word-level RNN with Python and theano: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
+#### Tensorflow
+- General tensorflow tutorial. https://github.com/nlintz/TensorFlow-Tutorials and https://github.com/aymericdamien/TensorFlow-Examples
+- Recurrent Neural Networks in Tensorflow. https://www.tensorflow.org/versions/master/tutorials/recurrent
+- RNNs in Tensorflow, a Practical Guide and Undocumented Features: http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
 - Vanishing Gradient: http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
-- GRU/LSTM RNN with Python and Theano: http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
 - Neural Machine Translation (seq2seq) Tutorial https://github.com/tensorflow/nmt/
+
+#### Theano
+- GRU/LSTM RNN with Python and Theano: http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
+- Word-level RNN with Python and theano: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
+
 
 ## Sample Code:
 ### General:

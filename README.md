@@ -44,6 +44,7 @@ https://www.tensorflow.org/tutorials/seq2seq
 
 ### Neural Machine Translation
 - Neural Machine Translation (seq2seq) Tutorial https://www.tensorflow.org/tutorials/seq2seq https://github.com/tensorflow/nmt/
+- https://github.com/tensorflow/models/tree/master/tutorials/rnn/translate
 
 ### Chatbot:
 - stanford tensorflow tutorial:https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/2017/assignments/chatbot

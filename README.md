@@ -72,6 +72,7 @@ https://www.tensorflow.org/tutorials/seq2seq
 
 ## Paper:
 - see https://github.com/kjw0612/awesome-rnn
+![alt text](https://raw.githubusercontent.com/mylovelybaby/RNN-Resource/master/classic_seq2seq_paper.png)
 
 ## Datasets:
 ### Language model:

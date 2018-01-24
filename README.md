@@ -10,6 +10,11 @@
 - Attention and Memory: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 - https://distill.pub/2016/augmented-rnns/#attentional-interfaces
 
+### Beam Search
+- attention and beam search: https://guillaumegenthial.github.io/sequence-to-sequence.html
+
+### Perplexity
+
 ### Bi-directional RNN
 ![alt text](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/bidirectional-rnn.png)
 - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/

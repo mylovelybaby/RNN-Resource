@@ -45,6 +45,8 @@ https://www.tensorflow.org/tutorials/seq2seq
 ### Neural Machine Translation
 - Neural Machine Translation (seq2seq) Tutorial https://www.tensorflow.org/tutorials/seq2seq https://github.com/tensorflow/nmt/
 - https://github.com/tensorflow/models/tree/master/tutorials/rnn/translate
+- Baseline SMT data: http://www-lium.univ-lemans.fr/~schwenk/cslm_joint_paper/
+- Baseline SMT paper: http://www-lium.univ-lemans.fr/~schwenk/papers/Sennrich.multidomain.acl2013.pdf
 
 ### Chatbot:
 - stanford tensorflow tutorial:https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/2017/assignments/chatbot

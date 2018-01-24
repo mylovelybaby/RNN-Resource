@@ -69,6 +69,9 @@ https://www.tensorflow.org/tutorials/seq2seq
 - see https://github.com/kjw0612/awesome-rnn
 
 ## Datasets:
+### Language model:
 - Shakespeare: https://cs.stanford.edu/people/karpathy/char-rnn/shakespear.txt
 - Wikipedia: https://cs.stanford.edu/people/karpathy/char-rnn/wiki.txt
 - Sherlock: https://sherlock-holm.es/stories/plain-text/cnus.txt
+### Machine Translation
+- WMT14: http://www.statmt.org/wmt14/translation-task.html

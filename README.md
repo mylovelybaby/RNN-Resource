@@ -66,6 +66,9 @@ https://www.tensorflow.org/tutorials/seq2seq
 ### Visual Question Answering
 - https://avisingh599.github.io/deeplearning/visual-qa/ https://github.com/avisingh599/visual-qa
 
+### image to latex:
+- https://guillaumegenthial.github.io/image-to-latex.html
+
 ### Text Summarization
 - thunlp https://github.com/thunlp/TensorFlow-Summarization.git 
 - textsum https://github.com/tensorflow/models/tree/master/research/textsum

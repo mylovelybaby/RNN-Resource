@@ -14,6 +14,9 @@
 - attention and beam search: https://guillaumegenthial.github.io/sequence-to-sequence.html
 
 ### Perplexity
+- exp(loss)
+
+### RNN Dropout
 
 ### Bi-directional RNN
 ![alt text](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/bidirectional-rnn.png)

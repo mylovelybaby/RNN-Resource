@@ -56,12 +56,13 @@ https://www.tensorflow.org/tutorials/seq2seq
 - Baseline SMT data: http://www-lium.univ-lemans.fr/~schwenk/cslm_joint_paper/
 - Baseline SMT paper: http://www-lium.univ-lemans.fr/~schwenk/papers/Sennrich.multidomain.acl2013.pdf
 
-### Chatbot:
+### Q & A:
 - stanford tensorflow tutorial:https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/2017/assignments/chatbot
 - Deep QA: https://github.com/Conchylicultor/DeepQA
 - chatbot-rnn reddit data: https://github.com/pender/chatbot-rnn
 - summary/datasets: https://github.com/fendouai/Awesome-Chatbot
 - in chinese: https://github.com/qhduan/Seq2Seq_Chatbot_QA
+- R-net in keras: https://github.com/YerevaNN/R-NET-in-Keras
 
 ### Neural Turing Machine
 - in tensorflow: https://github.com/carpedm20/NTM-tensorflow

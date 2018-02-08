@@ -34,7 +34,8 @@ https://www.tensorflow.org/tutorials/seq2seq
 - we-don-t-know-how-to-build-conversational-software-yet by Rasa team. https://medium.com/rasa-blog/we-don-t-know-how-to-build-conversational-software-yet-a18301db0e4b
 - RASA 
 - Deep learning for chatbot http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
-
+- 流程细节 https://github.com/qhduan/ConversationalRobotDesign/blob/master/%E6%B5%81%E7%A8%8B%E7%BB%86%E8%8A%82.md
+ 
 ## Implementation
 ### Vanilla RNN in Python/Numpy:
 - Minimal character-level language model with a Vanilla Recurrent Neural Network: https://gist.github.com/karpathy/d4dee566867f8291f086

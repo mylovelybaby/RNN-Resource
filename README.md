@@ -1,5 +1,8 @@
 # RNN-Resource
 ## Tutorials
+### Pre-deeplearning
+- ngram models: https://nlpforhackers.io/language-models/
+
 ### General
 - 动手学深度学习.in Chinese. includes basic rnn, gru, and lstm. https://zh.gluon.ai/chapter_recurrent-neural-networks/index.html
 - The Unreasonable Effectiveness of RNNs by Andrej Karpathy. http://karpathy.github.io/2015/05/21/rnn-effectiveness/

@@ -30,6 +30,11 @@
 https://www.tensorflow.org/tutorials/seq2seq
 - Stanford NMT group: https://nlp.stanford.edu/projects/nmt/
 
+### Chatbot
+- we-don-t-know-how-to-build-conversational-software-yet by Rasa team. https://medium.com/rasa-blog/we-don-t-know-how-to-build-conversational-software-yet-a18301db0e4b
+- RASA 
+- Deep learning for chatbot http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
+
 ## Implementation
 ### Vanilla RNN in Python/Numpy:
 - Minimal character-level language model with a Vanilla Recurrent Neural Network: https://gist.github.com/karpathy/d4dee566867f8291f086

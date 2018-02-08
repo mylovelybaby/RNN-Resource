@@ -69,6 +69,7 @@ https://www.tensorflow.org/tutorials/seq2seq
 - summary/datasets: https://github.com/fendouai/Awesome-Chatbot
 - in chinese: https://github.com/qhduan/Seq2Seq_Chatbot_QA
 - R-net in keras: https://github.com/YerevaNN/R-NET-in-Keras
+- Chatterbot: https://github.com/gunthercox/ChatterBot
 
 ### Neural Turing Machine
 - in tensorflow: https://github.com/carpedm20/NTM-tensorflow

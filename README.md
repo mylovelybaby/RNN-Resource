@@ -12,6 +12,8 @@
 ### Attention
 - Attention and Memory: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 - https://distill.pub/2016/augmented-rnns/#attentional-interfaces
+![alt text](https://guillaumegenthial.github.io/assets/img2latex/seq2seq_attention_mechanism_new.svg)
+
 
 ### Beam Search
 - attention and beam search: https://guillaumegenthial.github.io/sequence-to-sequence.html

@@ -34,6 +34,7 @@
 - https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
 https://www.tensorflow.org/tutorials/seq2seq
 - Stanford NMT group: https://nlp.stanford.edu/projects/nmt/
+- Stanford course: http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf
 
 ### Chatbot
 - we-don-t-know-how-to-build-conversational-software-yet by Rasa team. https://medium.com/rasa-blog/we-don-t-know-how-to-build-conversational-software-yet-a18301db0e4b
